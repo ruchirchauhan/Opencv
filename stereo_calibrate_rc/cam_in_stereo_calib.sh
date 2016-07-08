@@ -1,0 +1,1 @@
+/home/rc/MyPrograms/opencv_workspace/stereo_calibrate_rc/cam_in_stereo_calib.sh

@@ -1,0 +1,1 @@
+/home/rc/MyPrograms/opencv_workspace/stereo_calibrate_rc/stereo_calib.cpp
